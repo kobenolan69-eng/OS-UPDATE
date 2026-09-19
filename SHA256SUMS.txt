@@ -1,0 +1,2 @@
+c1acd16a42d0c29eebdfd0433fce6115c4df0ec629f6b655723bf9a433fb3cd7  kobe-os-0.3.img
+f1e0cd7b1af8a49b0292b7a11e591866dbd907249a04385fc570fed6ff6e450f  kobe-os-0.3.iso
